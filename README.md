@@ -1,6 +1,5 @@
-# lambda
-Scripts em python executados no AWS Lambda
-
+# AWS Provider
+Scripts em python executados via lambda ou SDK no provider AWS
 
 #### Rekognition/Watchfolder_Rekognition_Text.py
 - Script em python para tratar os arquivos de imagem assim que são depositados em um bucket específico. Esse tratamento se refere a análise e extração de textos através do serviço Amazon Rekognition.
