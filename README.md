@@ -2,11 +2,11 @@
 Scripts em python executados no AWS Lambda
 
 
-#### Watchfolder_Rekognition_Text.py
+#### Rekognition/Watchfolder_Rekognition_Text.py
 - Script em python para tratar os arquivos de imagem assim que são depositados em um bucket específico. Esse tratamento se refere a análise e extração de textos através do serviço Amazon Rekognition.
 
 
-#### Watchfolder_Textract_image.py
+#### Textract/Watchfolder_Textract_image.py
 - Script em python para tratar os arquivos de imagem assim que são depositados em um bucket específico. Esse tratamento se refere a análise e extração de textos através do serviço Amazon Textract (sync).
 
 
